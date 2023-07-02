@@ -1,4 +1,4 @@
-# Secure-ATMs
+# Face Detection and Recognition | Secure-ATMs
 We aim to make ATMs more secure by two factor authentication using face recognition along with the existing
 PIN system for ATMs.
 Each card/bank account supports a maximum of four faces.
