@@ -1,4 +1,4 @@
-# Face Detection and Recognition using CNNs 
+# Face Detection and Recognition using One Shot Learning 
 <ul>
 <li>Implemented and trained InceptionResnetV1 on custom dataset to generate face embeddings for multi-class classification on Pytorch framework, attaining 96% test accuracy on custom dataset
 
